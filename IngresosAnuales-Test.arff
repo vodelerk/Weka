@@ -1,0 +1,8 @@
+@relation ingresos
+
+@attribute year real
+@attribute ingresos real
+
+@data
+2017,?
+2018,?
